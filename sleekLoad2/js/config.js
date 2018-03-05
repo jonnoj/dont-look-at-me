@@ -83,7 +83,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Untitled.ogg", name: "Listen to TTS for song name <3"},
+	{ogg: "songs/Untitled.ogg", name: "Milk's Chill Shit (Ask Milk for song names)"},
+	{ogg: "songs/jadyn.ogg", name: "Jadyn's Suicide Tape (Ask Jadyn for song names)"},
 ];
 
 /*Random music order?*/
@@ -104,6 +105,17 @@ var l_messages = [
 "RIP Jon's Guniea pig",
 "Milk is a poor man",
 "SOMETIME I DREAM ABOUT CHEESE",
+"Nothings impossible, you're all just too weak.",
+"JADYN IS GAY CUNFURMED 2019",
+"My headphones just died - Milk every night",
+"NUMBER FIFTEEEEEEEEEN",
+"do you know da wae?",
+"Welcome to Milk RP ENJOY YOUR STAY BITCH",
+"Actual Good Quote",
+"Rape - Short word, long sentence.",
+"BRO HOW DO I BECOME STAFF?",
+"Can I be admin/mod - Every Squeeker ever",
+"When you actually feel like you want to die inside but then you can just join the server",
 "Pick up that can",
 "WUBALUBA DUB DUB",
 "Kill me please",
