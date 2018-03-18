@@ -83,8 +83,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Untitled.ogg", name: "Milk's Chill Shit (Ask Milk for song names)"},
-	{ogg: "songs/jadyn.ogg", name: "Jadyn's Suicide Tape (Ask Jadyn for song names)"},
+	{ogg: "songs/Yeeet.ogg", name: "Song Names On The Discord."},
+	{ogg: "songs/Jadyn.ogg", name: "Song Names On The Discord."},
+	{ogg: "songs/Milk.ogg", name: "Song Names On The Discord."},
+	{ogg: "songs/Dragon.ogg", name: "Song Names On The Discord."},
 ];
 
 /*Random music order?*/
@@ -121,6 +123,10 @@ var l_messages = [
 "Kill me please",
 "NICKOLODEAN GIRLS CANT LIVE WITHOUT EM WHEW",
 "That Moment when you get bonus but it's gives you a 0",
+"I eat more cocain to get drunk",
+"I'm not gay but $20 is $20",
+"Roblox is better tahan Mine crafyt !!11!1!!!1",
+"Minecraft IS BETtER THAn ROB LOX!!!!!!!1",
 "Request a Quote Via the Discord!",
 "Request a Quote Via the Discord!",
 "Request a Quote Via the Discord!",
