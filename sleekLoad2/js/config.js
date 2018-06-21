@@ -83,10 +83,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/2.ogg", name: "[Yeet] Song Names On The Discord."},
-	{ogg: "songs/4.ogg", name: "[Jadyn] Song Names On The Discord."},
-	{ogg: "songs/1.ogg", name: "[Milk] Song Names On The Discord."},
-	{ogg: "songs/3.ogg", name: "[Dragon] Song Names On The Discord."},
+	{ogg: "songs/1.ogg", name: "Logic - Like Wow, Juto - HMLT, Sisyfuss - HML"},
 ];
 
 /*Random music order?*/
