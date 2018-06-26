@@ -98,7 +98,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Request a Quote Via the Discord!",
+"This loading music sounds like me fucking a clock",
+"Wait, who is osu?",
+"Always give the homies a good night kiss",
+"I can feel the shit moving through my intestines",
 "More fucking cars? You kiding me?",
 "IN MEMORY OF THE HOBO WAR OF 2017",
 "RIP Jon's Guniea pig",
