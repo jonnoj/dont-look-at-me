@@ -83,7 +83,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/1.ogg", name: "Logic - Like Wow, Juto - HMLT, Sisyfuss - HML"},
+	{ogg: "songs/1.ogg", name: "The Animals - House Of The Rising Sun, The Rolling Stones - Sympathy For The Devil, Canned Heat - Going Up The Country"},
+	{ogg: "songs/2.ogg", name: "Black Sabbath - Paranoid, Sublime Summertime, Structure (Single) ~ Odd Sweetheart, The Dirty Heads - Lay Me Down"},
+	{ogg: "songs/3.ogg", name: "lilbootycall - honey, joji - yeah right, RAV - Solanine, hoodsie - bump V2"},
 ];
 
 /*Random music order?*/
