@@ -100,6 +100,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
+"Gotta do what you gotta do.",
+"Is that a loss meme?",
+"You know what thats for? Spanish.",
+"I spend more minutes on shitting",
+"DID YOU JUST CRASH BAN ME?",
+"I dont fuck with no hack scripts so don't try to sell me nothin",
 "This loading music sounds like me fucking a clock",
 "Wait, who is osu?",
 "Always give the homies a good night kiss",
