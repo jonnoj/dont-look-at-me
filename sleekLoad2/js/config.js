@@ -92,10 +92,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/1.ogg", name: "Good Morning - Oopsie, Hunny - Televised"},
-	{ogg: "songs/2.ogg", name: "Logic - Like Woah, Juto - HML"},
-	{ogg: "songs/3.ogg", name: "Kansas - Carry On Wayward Son, Black Sabbath - Paranoid"},
-	{ogg: "songs/4.ogg", name: "Hunny - Televised, The Heavy - Short Change Hero"}
+	{ogg: "songs/01.ogg", name: "Good Morning - Oopsie, Hunny - Televised"},
+	{ogg: "songs/02.ogg", name: "Logic - Like Woah, Juto - HML"},
+	{ogg: "songs/03.ogg", name: "Kansas - Carry On Wayward Son, Black Sabbath - Paranoid"},
+	{ogg: "songs/04.ogg", name: "Hunny - Televised, The Heavy - Short Change Hero"}
 ];
 
 /*Random music order?*/
