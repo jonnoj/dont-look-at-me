@@ -92,9 +92,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/1.ogg", name: "The Animals - House Of The Rising Sun, The Rolling Stones - Sympathy For The Devil, Canned Heat - Going Up The Country"},
-	{ogg: "songs/2.ogg", name: "Black Sabbath - Paranoid, Sublime Summertime, Structure (Single) ~ Odd Sweetheart, The Dirty Heads - Lay Me Down"},
-	{ogg: "songs/3.ogg", name: "lilbootycall - honey, joji - yeah right, RAV - Solanine, hoodsie - bump V2"},
+	{ogg: "songs/1.ogg", name: "Good Morning - Oopsie, Hunny - Televised"},
+	{ogg: "songs/2.ogg", name: "Logic - Like Woah, Juto - HML"},
+	{ogg: "songs/3.ogg", name: "Kansas - Carry On Wayward Son, Black Sabbath - Paranoid"},
+	{ogg: "songs/3.ogg", name: "Hunny - Televised, The Heavy - Short Change Hero"},
 ];
 
 /*Random music order?*/
@@ -109,6 +110,23 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
+"Milk Is A Weeb",
+"I tried to sell my body and they called it rape",
+"OOOOOOAHHHHHHHHHHHH",
+"I'm Very  Gay.",
+"AHHHHHHHHHHHHHHHHHHH",
+"REEEEEEEEEEEE",
+"All Old Quotes Will Be Added To The Loading Screen",
+"If your mom had your dick it will be a man",
+"Ladies and gentlmen, We got him.",
+"I love Cocks Lol",
+"Spent a couple minutes smashing his keyboard until something legible came out.",
+"I like turtles",
+"HoW mUcH dEdIdAtEd WaM dO tAKE tO rUn Ev SeRvEr?",
+"Jadyn fucks warships",
+"What are you? Ma-gic-ian?",
+"Sweep the streets boys, sweep em good.",
+"watch out for that fucker, he fucks.",
 "I'm such a gamer that if you cutt me I bleed gfuel",
 "That moment when you change a 10 to a 6...",
 "When the water company runs out of money, they don't pump water; they pump bananas",
